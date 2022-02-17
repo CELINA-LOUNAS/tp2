@@ -1,10 +1,11 @@
 # Answers
 
-Nom : 
-Prénom : 
+Nom : lounas
+Prénom : celina
 
 # 1.
 Citez deux avantages du PaaS sur le IaaS ?
+-La solution PaaS vous permet d'économiser beaucoup de temps. Contrairement à la solution IaaS
 
 # 2.
 Quelle est la différence entre le PaaS et le Serverless ?
